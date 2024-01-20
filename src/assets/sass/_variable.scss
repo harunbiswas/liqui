@@ -1,0 +1,19 @@
+// color
+$theme: #c6fe1f;
+$secondary: #ec0688;
+$black: #171717;
+$white: #fff;
+$text: #e3e3e3;
+
+// animation
+@keyframes move1 {
+  0% {
+    transform: translateY(0%);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(100%);
+    opacity: 1;
+  }
+}
