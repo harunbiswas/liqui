@@ -21,7 +21,8 @@ export default function Header() {
       url: '#contact',
     },
   ]
-  const [active, setActive] = useState('#home')
+  // const [active, setActive] = useState('#home')
+  const active = '#home'
   const [isToggle, setIsToggle] = useState(false)
 
   return (

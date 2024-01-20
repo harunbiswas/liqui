@@ -22,7 +22,7 @@ export default function Banner() {
             </div>
           </h1>
 
-          <a href='#' className='btn banner-content-btn'>
+          <a href='#uniswap' className='btn banner-content-btn'>
             Start Investing Now
           </a>
           <div className='banner-content-img'>

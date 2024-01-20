@@ -3,8 +3,8 @@ import img2 from '../assets/images/Crypto_Photo_1-1.webp'
 import img1 from '../assets/images/Pepe-Coin-1.webp'
 import Title from './basic/Title'
 import VideoPlayer from './basic/VideoPlayer'
-const video =
-  'https://player.vimeo.com/video/881057694?badge=0&autopause=0&autoplay=1&loop=1&title=0&byline=0&portrait=0&controls=0'
+// const video =
+//   'https://player.vimeo.com/video/881057694?badge=0&autopause=0&autoplay=1&loop=1&title=0&byline=0&portrait=0&controls=0'
 
 export default function Beyond() {
   return (
