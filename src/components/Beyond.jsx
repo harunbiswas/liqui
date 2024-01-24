@@ -43,7 +43,7 @@ export default function Beyond() {
           </div>
           <div className='beyond-coin-item'>
             <p>
-              Dodgecoin; Has lost over -90.71% of value since ATH's of 71 cents.
+              Dogecoin; Has lost over -90.71% of value since ATH's of 71 cents.
             </p>
             <span>
               <FaPlus />

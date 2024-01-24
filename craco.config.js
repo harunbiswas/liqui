@@ -8,7 +8,7 @@ module.exports = {
         fallback: {
           http: require.resolve('stream-http'),
           https: require.resolve('https-browserify'),
-          fs: false, // You may need to configure this depending on your use case
+          fs: false, // Set fs to false to exclude it
           path: require.resolve('path-browserify'),
         },
       },
