@@ -251,8 +251,9 @@
     text-align: center;
 
     img {
-      width: 170px;
-      height: 95px;
+      width: 93px;
+        height: 93px;
+        object-fit: cover;
 
       &.img3 {
         width: 93px;
@@ -346,7 +347,7 @@
         }
 
         h4,
-        p {
+        li {
           padding: 0 30px;
 
           a {
@@ -359,6 +360,30 @@
           }
         }
 
+        ul{
+          
+
+
+           li{
+          text-align: left;
+          position: relative;
+          margin-left: 30px;
+
+          &::after{
+            content: "";
+            width: 5px;
+            height: 1px;
+            background-color: $white;
+            position: absolute;
+            left: -0px;
+            top: 50%;
+            transform: translateY(-50%);
+
+          }
+        }
+
+        }
+       
         h4 {
           font-size: 24px;
           font-weight: bold;
@@ -442,6 +467,10 @@
       &.revers {
         .left {
           order: 3;
+
+          li{
+            margin-left: 50px;
+          }
 
           .top {
             justify-content: flex-start;

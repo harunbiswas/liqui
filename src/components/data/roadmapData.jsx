@@ -13,65 +13,80 @@ roadmapData.first = [
   {
     id: 1,
     img: img1,
-    name: 'Creation',
+    name: 'Q4 2023',
     text: (
-      <p>
-        Liquid Invest created LQINV and has put it on{' '}
-        <a href='https://etherscan.io/address/0xfcC16F9CAb16ec0D0586E5c0DC96AfdE9f7814b'>
-          Uniswap V3
-        </a>
-        .
-      </p>
+      <ul>
+       <li>Token Generation Event</li>
+       <li>Contact Audit</li>
+       <li>Uniswap V3 Listing</li>
+       <li>Marketing</li>
+      </ul>
     ),
   },
   {
     id: 2,
     img: img2,
-    name: 'Build',
+    name: 'Q1 2024',
     text: (
-      <p>
-        As LQINV sells, a Staking protocol will be built. 10% of Eth/LQINV will
-        be put in Uniswap V2 to ensure liquidity.
-      </p>
+      <ul>
+      <li>Large Scale Marketing</li>
+      <li>Add More liquidity to the pool</li>
+      <li>Coinmarketcap and Coingecko listing</li>
+      <li>DEX Listing</li>
+      <li>Partnership Announcements</li>
+      <li>CEX Listing</li>
+      <li>Token Burn</li>
+      <li>Community Frowth</li>
+      <li>Set Up transparency Methods</li>
+      <li>Invest in Vetted Real-World Project</li>
+     </ul>
     ),
   },
   {
     id: 3,
     img: img3,
-    name: 'Formation',
+    name: 'Q2 2024',
     text: (
-      <p>
-        Using the proceeds staked, a LLP company will be formed, with holders as
-        Limited Partners, and the LI team as the Managing partner
-      </p>
+      <ul>
+      <li>Identity and Invest in more vetted Projects</li>
+      <li>Stabilize Projects invested in Q1</li>
+      <li>Create Voting Protocol</li>
+      <li>Begin Returns from Q1 Projects</li>
+      <li>Begin repurchase of tokens from returns form Q1 Projects</li>
+      <li>More CEX Listing</li>
+      <li>Ambassador Campaigns</li>
+     </ul>
     ),
   },
   {
     id: 4,
     img: img4,
-    name: 'Growth',
+    name: 'Q3 2024',
     text: (
-      <p>
-        The LLP will retain enough of the revenues to ensure liquidity and
-        growth
-      </p>
+      <ul>
+       <li>Phase I Airdrop Distribution </li>
+       <li>Stabilize Q2 Projects and begin returns form them </li>
+       <li>Continue Managing Partners Repurchase Plan </li>
+      </ul>
+    ),
+  },
+  {
+    id: 5,
+    img: img5,
+    name: 'Q4 2024',
+    text: (
+      <ul>
+      <li>Phase 11 Airdrop Distribution </li>
+      <li>Launch staking platform </li>
+      <li>Launch Limited Liabillity Company </li>
+     
+     </ul>
     ),
   },
 ]
 
 roadmapData.sec = [
-  {
-    id: 5,
-    img: img5,
-    name: 'Stability',
-    text: (
-      <p>
-        Once the LLP has enough in savings for proper functioning and growth,
-        Distributions will begin to Limited Partners. LiquidInvest will
-        distribute profits unless conditions require additional capitalization.
-      </p>
-    ),
-  },
+  
   {
     id: 6,
     img: img6,

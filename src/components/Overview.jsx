@@ -12,7 +12,7 @@ export default function Overview() {
     },
     {
       img: img2,
-      title: 'Dodge Coin',
+      title: 'Doge Coin',
       text: "Dogecoin's trip from a viral joke to a serious asset was cut short, with a more than 90% slide from its high, underscoring the volatility of meme investments.",
     },
     {

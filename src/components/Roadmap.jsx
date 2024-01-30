@@ -8,7 +8,7 @@ export default function RoadMap() {
       <div className='container'>
         <Title title={'Roadmap'} />
         <RoadmapTracker data={roadmapData.first} />
-        <RoadmapTracker data={roadmapData.sec} />
+        {/* <RoadmapTracker data={roadmapData.sec} /> */}
 
         <div className='roadmap-bottom'>
           <p>
